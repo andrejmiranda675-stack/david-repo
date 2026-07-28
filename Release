@@ -1,0 +1,16 @@
+Origin: David Repo
+Label: David Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: David's Cydia repository for iOS 6 tweaks and utilities.
+MD5Sum:
+ 66359587051b1611ad21ac3f738e3800              425 Packages
+ 601be7b1070f0824f89cb062420cc858              311 Packages.gz
+ 118aceec07e4d96109b77639f3baf6fa              344 Packages.bz2
+SHA256:
+ f054f8dbfa1c5c42212927cfb27e3e4574605d8ec062961dae1e9fbad48b6ddd              425 Packages
+ 15b7bc2ab51f0e6720c71b3b4e8eb17a78ea9d48c486ddd476da51d319a2f8ae              311 Packages.gz
+ 0734678c8863893cdcd41e17796835ae35892da73368874df2ce12991d64e5b4              344 Packages.bz2

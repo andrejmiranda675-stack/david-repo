@@ -1,0 +1,13 @@
+Package: com.custom.springboard
+Name: Spring Board
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: David Repo
+Section: Utilities
+Description: One-tap utility that restarts SpringBoard.
+Filename: debs/com.custom.springboard_1.0.1_iphoneos-arm.deb
+Size: 4122
+MD5sum: 5704ee00910eeabfefd589f12fa0e037
+SHA1: 61b6d7d43c5f354f784169ba1a088c51dd2ca222
+SHA256: 6fc4c34f6c9f63e57b49f4201709bbc64fb653e12b1ef5b3be9fbb0751a02062
+
