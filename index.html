@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Cydia Repo</title>
+  <style>
+    body { font-family: -apple-system, Helvetica, Arial, sans-serif; margin: 0; background: #f2f2f7; color: #111; }
+    main { max-width: 620px; margin: 40px auto; padding: 24px; }
+    .card { background: white; border-radius: 18px; padding: 26px; box-shadow: 0 10px 30px rgba(0,0,0,.08); text-align: center; }
+    img { width: 96px; height: 96px; border-radius: 22px; }
+    h1 { margin-bottom: 8px; }
+    code { display: block; margin-top: 18px; padding: 13px; background: #eeeef2; border-radius: 10px; overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="card">
+      <img src="CydiaIcon.png" alt="Repo icon">
+      <h1>My Cydia Repo</h1>
+      <p>Add this source in Cydia to install my packages.</p>
+      <code id="repo-url"></code>
+    </div>
+  </main>
+  <script>document.getElementById('repo-url').textContent = location.href;</script>
+</body>
+</html>
