@@ -1,0 +1,9 @@
+Package: com.andre.bootlogochanger.theme
+Name: Bootlogo Changer
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Section: Themes
+Maintainer: Andre
+Filename: debs/com.andre.bootlogochanger.theme_1.0.3_iphoneos-arm64.deb
+Size: 1048576
+Description: Bootlogo theme package.
