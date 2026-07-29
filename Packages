@@ -1,13 +1,34 @@
 Package: com.custom.springboard
-Name: Spring Board
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: David Repo
-Section: Utilities
-Description: One-tap utility that restarts SpringBoard.
+Installed-Size: 12
+Depends: firmware (>= 5.0)
 Filename: debs/com.custom.springboard_1.0.1_iphoneos-arm.deb
 Size: 4122
 MD5sum: 5704ee00910eeabfefd589f12fa0e037
 SHA1: 61b6d7d43c5f354f784169ba1a088c51dd2ca222
 SHA256: 6fc4c34f6c9f63e57b49f4201709bbc64fb653e12b1ef5b3be9fbb0751a02062
+Section: Utilities
+Priority: optional
+Description: One-tap utility that restarts SpringBoard.
+Author: David Repo
+Name: Spring Board
+
+Package: com.davidrepo.applefilesv200
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: David Repo
+Installed-Size: 96
+Depends: firmware (>= 5.0), com.innoying.sbutils, sudo
+Filename: debs/com.davidrepo.applefilesv200_2.0.0_iphoneos-arm.deb
+Size: 7640
+MD5sum: 5722dded638da7e5bd194af0d9651216
+SHA1: ac6e6a4a4a9b62860feb2337d23867ff3d089ae5
+SHA256: e2dd199f5ce2940e3ed2d4ef1531300541828cf2665a7368088c29c4c92cb848
+Section: Utilities
+Priority: optional
+Description: Root file browser and text editor for legacy jailbroken iOS. Browse folders, view and edit text, create, copy, move, rename, delete, inspect, and change permissions using native popup menus.
+Author: David Repo
+Name: Apple Files v200
 
